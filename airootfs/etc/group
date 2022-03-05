@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:sonic
+wheel:x:10:sonic
+uucp:x:14:sonic
+sonic:x:1000:
